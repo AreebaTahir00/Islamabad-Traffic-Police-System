@@ -29,7 +29,7 @@ A console-based application developed in C++ to manage traffic police duty sched
 
 ## Files
 
-- main.cpp
+- Project.cpp
 - Scheduling_system.txt
 - Check.txt
 
